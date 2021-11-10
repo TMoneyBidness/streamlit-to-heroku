@@ -18,7 +18,7 @@ You've been contacted by your company's Human Resources (HR) department to help 
 
 Output for this activity should resemble the following:
 
-![PyCheer](Images/python-cheer.PNG)
+![PyCheer](Images/python-cheer.png)
 
 ---
 
